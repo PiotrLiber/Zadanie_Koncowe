@@ -20,7 +20,7 @@ Feature: Coders Guru
 
     Examples:
     |email           |name          |surname   |password      |city    |zip code|street        |house number |
-    |piotr10@test.com |Kulfoniasty   |Krzaczasty|piotrkowalski|Warszawa |03-980  |Bema          |9/7          |
-    |pawel10@test.com |Pawel         |Maciejka  |pawelmaciejka |Kielce  |25-373  |Rechniewskiego|7/12         |
+    |piotr11@test.com |Kulfoniasty   |Krzaczasty|piotrkowalski|Warszawa |03-980  |Bema          |9/7          |
+    |pawel11@test.com |Pawel         |Maciejka  |pawelmaciejka |Kielce  |25-373  |Rechniewskiego|7/12         |
 
 
