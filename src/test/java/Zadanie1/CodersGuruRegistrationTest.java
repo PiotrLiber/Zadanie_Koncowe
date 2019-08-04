@@ -6,8 +6,9 @@ import org.junit.runner.RunWith;
 
 
     @RunWith(Cucumber.class)
-    @CucumberOptions(features = "/home/piotr/Zadanie_Koncowe/src/test/resources/CodersGuruRegistration.feature",
+    @CucumberOptions(features = "src/test/resources/CodersGuruRegistration.feature",
             plugin = {"pretty", "html:out"})
+
 
     public class CodersGuruRegistrationTest {
     }
